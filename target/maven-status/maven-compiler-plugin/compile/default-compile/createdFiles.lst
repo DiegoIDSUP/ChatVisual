@@ -1,0 +1,6 @@
+module-info.class
+com\mycompany\chatvisual\PrimaryController.class
+com\mycompany\chatvisual\Servidor.class
+com\mycompany\chatvisual\Usuario.class
+com\mycompany\chatvisual\App.class
+com\mycompany\chatvisual\SecondaryController.class
